@@ -1,6 +1,6 @@
 # FIFA-Women-s-world-cup
 
-This a project organized by WIDA ,Visualization and data analysis in Power BI
+This is a project challenge organized by WIDA ,Visualization and data analysis in Power BI
 
 ![image](https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=600)
 
