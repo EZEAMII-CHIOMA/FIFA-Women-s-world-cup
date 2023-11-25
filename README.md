@@ -1,4 +1,4 @@
-# FIFA-world-cup-by-Women
+# FIFA-world-cup-Women-football-Data Analysis
 
 This is a project challenge organized by WIDA ,Visualization and data analysis in Power BI
 
